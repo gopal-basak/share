@@ -1,3 +1,4 @@
+/*The code is developed by Gopal*/
 #include <stdio.h>
 #include<stdbool.h>
 
